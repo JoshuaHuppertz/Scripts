@@ -1,1 +1,0 @@
-findmnt -kn /dev/shm
